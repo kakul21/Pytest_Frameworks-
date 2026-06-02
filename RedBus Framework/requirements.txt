@@ -1,0 +1,8 @@
+pytest
+python-dotenv
+requests
+selenium
+webdriver-manager
+pyyaml
+pytest-html
+undetected-chromedriver
